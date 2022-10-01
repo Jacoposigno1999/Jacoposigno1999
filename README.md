@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jacopo
-- 👀 I’m interested in create value using data
+- 👀 I’m interested in creating value using data
 - 🌱 I’m currently learning Data Science at Università Cattolica 
 - 📫 You can contact me at this e-mail: jacopo.signo@gmail.com
 
