@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jacopo
 - 👀 I’m interested in creating value using data
-- 🌱 I’m currently learning Data Science at Università Cattolica 
+- 🌱 I’m currently studing Data Science at Università Cattolica 
 - 📫 You can contact me at this e-mail: jacopo.signo@gmail.com
 
 <!---
